@@ -57,18 +57,6 @@ To understand working of stepper motor refer to : https://www.youtube.com/watch?
 
 How to connect SPITFT with touchscreen : https://youtu.be/4DtuOeeYHys?si=w1yRqHNixscvlNOI
 
-Control Stepper Motor Using a NEXTION Display and Arduino : https://youtu.be/YU2iN06gzxI?si=njGSwaQfABbdCRtG
-
-Arduino stepper motor control with nextion HMI : https://youtu.be/FU4FXSXlxv4?si=I2xgOTZ3S56p4b56
-
-TFT display text : https://docs.arduino.cc/retired/library-examples/tft-library/TFTDisplayText/
-
-To check the touch test is working or not : https://youtu.be/beyDkTBhpgs?si=7CFWWJR-YFgRd0A2
-
-Connect an SPI TFT with Touchscreen to your Arduino - ILI9341 LCD with XPT2046 Touch screen : https://www.youtube.com/watch?v=4DtuOeeYHys&t=984s
-
-Arduino-friendly 240x320 LCD Display Tutorial (ILI9341) : https://www.youtube.com/watch?v=EFAfcsYOriM
-
 Learn Adafruit GFX Graphics Library here : https://learn.adafruit.com/adafruit-gfx-graphics-library?view=all
 
 Final wokwi simulation : https://wokwi.com/projects/392781916285100033
